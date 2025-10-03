@@ -1,4 +1,6 @@
 kholis repolusi
 -saya ingin belajar java script bulan ini secara konsisten
 -membuat project js
-mengajarkan orang
+-mengajarkan orang
+-saya mau bikin web
+-colab dengan teman
